@@ -719,17 +719,17 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="193.9533830533107" height="8" fill="#4F5D95"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="193.94637931107542" height="8" fill="#4F5D95"/>
         
-          <rect mask="url(#languages-bar)" x="193.9533830533107" y="0" width="158.7945862598126" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="193.94637931107542" y="0" width="158.78885211724176" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="352.7479693131233" y="0" width="82.82030150727846" height="8" fill="#00ADD8"/>
+          <rect mask="url(#languages-bar)" x="352.7352314283172" y="0" width="82.83392163260463" height="8" fill="#00ADD8"/>
         
-          <rect mask="url(#languages-bar)" x="435.5682708204017" y="0" width="14.072400732773637" height="8" fill="#f34b7d"/>
+          <rect mask="url(#languages-bar)" x="435.56915306092185" y="0" width="14.071892572174363" height="8" fill="#f34b7d"/>
         
-          <rect mask="url(#languages-bar)" x="449.64067155317537" y="0" width="9.180766368615798" height="8" fill="#701516"/>
+          <rect mask="url(#languages-bar)" x="449.6410456330962" y="0" width="9.180434847091627" height="8" fill="#701516"/>
         
-          <rect mask="url(#languages-bar)" x="458.8214379217912" y="0" width="1.178562078208828" height="8" fill="#384d54"/>
+          <rect mask="url(#languages-bar)" x="458.8214804801878" y="0" width="1.178519519812196" height="8" fill="#384d54"/>
         
       </svg>
       <div class="field center horizontal-wrap fill-width">
@@ -792,11 +792,11 @@
         <section class="categories">
           
             <div class="categorie column">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="302.68 329"/>
-                  <text x="60" y="60" dominant-baseline="central">92</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="282.94 329"/>
+                  <text x="60" y="60" dominant-baseline="central">86</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -882,7 +882,7 @@
           <div class="field">
             <div class="audit text">
               
-                1.03 s
+                0.99 s
               
             </div>
             
@@ -926,7 +926,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.90 
+                1.01 
               
             </div>
             
@@ -969,6 +969,39 @@
       <section>
         
           
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 1 commit in <div class="repo">du5/iamgoodmanbot</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">main</div></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#fbfdfe1</div>
+                        <div class="message">更换私钥</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+              </section>
+            </div>
           
             <div class="row fill-width">
               <section class="activity">
@@ -1102,41 +1135,6 @@
               </section>
             </div>
           
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">du5/vcbar</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">main</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#f5f7db4</div>
-                        <div class="message">fix map
-
-并发异常</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-              </section>
-            </div>
-          
         
       </section>
     </div>
@@ -1147,7 +1145,7 @@
       
         <footer>
           <span>These metrics include private contributions, timezone Asia/Shanghai</span>
-          <span>Last updated Sat, 30 Jan 2021 14:33:56 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Sat, 30 Jan 2021 14:55:06 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
