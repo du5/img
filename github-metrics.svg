@@ -828,17 +828,17 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="193.83156865171256" height="8" fill="#4F5D95"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="191.50477670072468" height="8" fill="#4F5D95"/>
         
-          <rect mask="url(#languages-bar)" x="193.83156865171256" y="0" width="158.69485369935012" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="191.50477670072468" y="0" width="156.7898497269872" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="352.52642235106265" y="0" width="83.05719306618587" height="8" fill="#00ADD8"/>
+          <rect mask="url(#languages-bar)" x="348.2946264277118" y="0" width="87.5820880317337" height="8" fill="#00ADD8"/>
         
-          <rect mask="url(#languages-bar)" x="435.58361541724855" y="0" width="14.063562417878964" height="8" fill="#f34b7d"/>
+          <rect mask="url(#languages-bar)" x="435.8767144594455" y="0" width="13.894740671948947" height="8" fill="#f34b7d"/>
         
-          <rect mask="url(#languages-bar)" x="449.6471778351275" y="0" width="9.175000294604612" height="8" fill="#701516"/>
+          <rect mask="url(#languages-bar)" x="449.7714551313945" y="0" width="9.064861801766238" height="8" fill="#701516"/>
         
-          <rect mask="url(#languages-bar)" x="458.82217812973215" y="0" width="1.1778218702679135" height="8" fill="#384d54"/>
+          <rect mask="url(#languages-bar)" x="458.8363169331607" y="0" width="1.1636830668392457" height="8" fill="#384d54"/>
         
       </svg>
       
@@ -906,8 +906,8 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="282.94 329"/>
-                  <text x="60" y="60" dominant-baseline="central">86</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="289.52 329"/>
+                  <text x="60" y="60" dominant-baseline="central">88</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -993,7 +993,7 @@
           <div class="field">
             <div class="audit text">
               
-                1.21 s
+                0.93 s
               
             </div>
             
@@ -1026,7 +1026,7 @@
           <div class="field">
             <div class="audit text">
               
-                1.03 s
+                1.01 s
               
             </div>
             
@@ -1037,11 +1037,11 @@
           <div class="field">
             <div class="audit text">
               
-                0.25 
+                0.09 
               
             </div>
             
-              <svg xmlns="http://www.w3.org/2000/svg" class="audit average" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/></svg>
             
           </div>
           
@@ -1080,6 +1080,39 @@
       <section>
         
           
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 1 commit in <div class="repo">du5/vcbar</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">main</div></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#77a3be3</div>
+                        <div class="message">增加 DOGE</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+              </section>
+            </div>
           
             <div class="row fill-width">
               <section class="activity">
@@ -1213,39 +1246,6 @@
               </section>
             </div>
           
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">du5/iamgoodmanbot</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">main</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#fc0681f</div>
-                        <div class="message">增加白名单权限范围</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-              </section>
-            </div>
-          
         
       </section>
     </div>
@@ -1263,7 +1263,7 @@
           
             <span>These metrics include private contributions, timezone Asia/Shanghai</span>
           
-          <span>Last updated Mon, 01 Feb 2021 11:40:51 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Mon, 01 Feb 2021 11:53:40 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
