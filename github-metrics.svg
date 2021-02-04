@@ -906,8 +906,8 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="322.42 329"/>
-                  <text x="60" y="60" dominant-baseline="central">98</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
+                  <text x="60" y="60" dominant-baseline="central">96</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -917,8 +917,8 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="322.42 329"/>
-                  <text x="60" y="60" dominant-baseline="central">98</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
+                  <text x="60" y="60" dominant-baseline="central">96</text>
                 
               </svg>
               <span class="title">Accessibility</span>
@@ -982,7 +982,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.56 s
+                2 s
               
             </div>
             
@@ -993,7 +993,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.87 s
+                2.14 s
               
             </div>
             
@@ -1004,7 +1004,7 @@
           <div class="field">
             <div class="audit text">
               
-                0 s
+                0.16 s
               
             </div>
             
@@ -1015,7 +1015,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.56 s
+                0.94 s
               
             </div>
             
@@ -1026,7 +1026,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.98 s
+                1.20 s
               
             </div>
             
@@ -1037,7 +1037,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.83 
+                0.99 
               
             </div>
             
@@ -1263,7 +1263,7 @@
           
             <span>These metrics include private contributions, timezone Asia/Shanghai</span>
           
-          <span>Last updated Thu, 04 Feb 2021 18:06:29 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Thu, 04 Feb 2021 18:34:04 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
