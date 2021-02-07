@@ -828,17 +828,17 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="191.50477670072468" height="8" fill="#4F5D95"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="191.49951629445536" height="8" fill="#4F5D95"/>
         
-          <rect mask="url(#languages-bar)" x="191.50477670072468" y="0" width="156.7898497269872" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="191.49951629445536" y="0" width="156.78554289807838" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="348.2946264277118" y="0" width="87.5820880317337" height="8" fill="#00ADD8"/>
+          <rect mask="url(#languages-bar)" x="348.2850591925337" y="0" width="87.59231790459995" height="8" fill="#00ADD8"/>
         
-          <rect mask="url(#languages-bar)" x="435.8767144594455" y="0" width="13.894740671948947" height="8" fill="#f34b7d"/>
+          <rect mask="url(#languages-bar)" x="435.87737709713366" y="0" width="13.8943590001066" height="8" fill="#f34b7d"/>
         
-          <rect mask="url(#languages-bar)" x="449.7714551313945" y="0" width="9.064861801766238" height="8" fill="#701516"/>
+          <rect mask="url(#languages-bar)" x="449.77173609724025" y="0" width="9.064612800897047" height="8" fill="#701516"/>
         
-          <rect mask="url(#languages-bar)" x="458.8363169331607" y="0" width="1.1636830668392457" height="8" fill="#384d54"/>
+          <rect mask="url(#languages-bar)" x="458.8363488981373" y="0" width="1.1636511018626756" height="8" fill="#384d54"/>
         
       </svg>
       
@@ -906,8 +906,8 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="309.26 329"/>
-                  <text x="60" y="60" dominant-baseline="central">94</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="319.13 329"/>
+                  <text x="60" y="60" dominant-baseline="central">97</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -993,7 +993,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.97 s
+                0.69 s
               
             </div>
             
@@ -1026,7 +1026,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.95 s
+                0.71 s
               
             </div>
             
@@ -1037,11 +1037,11 @@
           <div class="field">
             <div class="audit text">
               
-                0.70 
+                0.01 
               
             </div>
             
-              <svg xmlns="http://www.w3.org/2000/svg" class="audit low" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M4.47.22A.75.75 0 015 0h6a.75.75 0 01.53.22l4.25 4.25c.141.14.22.331.22.53v6a.75.75 0 01-.22.53l-4.25 4.25A.75.75 0 0111 16H5a.75.75 0 01-.53-.22L.22 11.53A.75.75 0 010 11V5a.75.75 0 01.22-.53L4.47.22zm.84 1.28L1.5 5.31v5.38l3.81 3.81h5.38l3.81-3.81V5.31L10.69 1.5H5.31zM8 4a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0v-3.5A.75.75 0 018 4zm0 8a1 1 0 100-2 1 1 0 000 2z"/></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/></svg>
             
           </div>
           
@@ -1080,6 +1080,39 @@
       <section>
         
           
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 1 commit in <div class="repo">du5/mugglepay</div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">main</div></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#9b3cb19</div>
+                        <div class="message">完善 EOS 地址</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+              </section>
+            </div>
           
             <div class="row fill-width">
               <section class="activity">
@@ -1213,39 +1246,6 @@
               </section>
             </div>
           
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    Pushed 1 commit in <div class="repo">du5/iamgoodmanbot</div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <div class="code">main</div></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#e8014a8</div>
-                        <div class="message">关闭日志访问权限</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-              </section>
-            </div>
-          
         
       </section>
     </div>
@@ -1263,7 +1263,7 @@
           
             <span>These metrics include private contributions, timezone Asia/Shanghai</span>
           
-          <span>Last updated Sun, 07 Feb 2021 07:47:25 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Sun, 07 Feb 2021 08:06:24 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
