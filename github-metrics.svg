@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="785" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="817" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -828,17 +828,17 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="191.48098524504346" height="8" fill="#4F5D95"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="191.39516918014675" height="8" fill="#4F5D95"/>
         
-          <rect mask="url(#languages-bar)" x="191.48098524504346" y="0" width="156.7703710548344" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="191.39516918014675" y="0" width="156.7001112516529" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="348.25135629987784" y="0" width="87.62835509827967" height="8" fill="#00ADD8"/>
+          <rect mask="url(#languages-bar)" x="348.09528043179967" y="0" width="87.79524096009867" height="8" fill="#00ADD8"/>
         
-          <rect mask="url(#languages-bar)" x="435.8797113981575" y="0" width="13.893014469017647" height="8" fill="#f34b7d"/>
+          <rect mask="url(#languages-bar)" x="435.89052139189835" y="0" width="13.886788034420196" height="8" fill="#f34b7d"/>
         
-          <rect mask="url(#languages-bar)" x="449.77272586717515" y="0" width="9.063735635299121" height="8" fill="#701516"/>
+          <rect mask="url(#languages-bar)" x="449.77730942631854" y="0" width="9.059673539397068" height="8" fill="#701516"/>
         
-          <rect mask="url(#languages-bar)" x="458.83646150247426" y="0" width="1.1635384975256826" height="8" fill="#384d54"/>
+          <rect mask="url(#languages-bar)" x="458.8369829657156" y="0" width="1.1630170342843813" height="8" fill="#384d54"/>
         
       </svg>
       
@@ -903,11 +903,11 @@
         <section class="categories">
           
             <div class="categorie column">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="289.52 329"/>
-                  <text x="60" y="60" dominant-baseline="central">88</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="305.97 329"/>
+                  <text x="60" y="60" dominant-baseline="central">93</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -917,8 +917,8 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="322.42 329"/>
-                  <text x="60" y="60" dominant-baseline="central">98</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
+                  <text x="60" y="60" dominant-baseline="central">96</text>
                 
               </svg>
               <span class="title">Accessibility</span>
@@ -993,7 +993,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.94 s
+                0.92 s
               
             </div>
             
@@ -1026,7 +1026,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.95 s
+                1.01 s
               
             </div>
             
@@ -1037,11 +1037,11 @@
           <div class="field">
             <div class="audit text">
               
-                0.75 
+                0.14 
               
             </div>
             
-              <svg xmlns="http://www.w3.org/2000/svg" class="audit low" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M4.47.22A.75.75 0 015 0h6a.75.75 0 01.53.22l4.25 4.25c.141.14.22.331.22.53v6a.75.75 0 01-.22.53l-4.25 4.25A.75.75 0 0111 16H5a.75.75 0 01-.53-.22L.22 11.53A.75.75 0 010 11V5a.75.75 0 01.22-.53L4.47.22zm.84 1.28L1.5 5.31v5.38l3.81 3.81h5.38l3.81-3.81V5.31L10.69 1.5H5.31zM8 4a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0v-3.5A.75.75 0 018 4zm0 8a1 1 0 100-2 1 1 0 000 2z"/></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" class="audit average" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/></svg>
             
           </div>
           
@@ -1084,13 +1084,6 @@
             <div class="row fill-width">
               <section class="activity">
                 
-                  <div class="field">
-                    
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/></svg>
-                    
-                    Created new
-                    branch <div class="code">main</div> in <div class="repo">du5/Peach</div>
-                  </div>
                 
                 
                 
@@ -1098,32 +1091,22 @@
                 
                 
                 
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
                 
                   <div class="field">
-                    
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/></svg>
-                    
-                    Created new
-                    repository <div class="code"></div> in <div class="repo">du5/Peach</div>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    Pushed 1 commit in <div class="repo">du5/Peach</div>
                   </div>
-                
-                
-                
-                
-                
-                
-                
-                
+                  <div class="details">
+                    
+                      <div>on branch <div class="code">main</div></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#00015f8</div>
+                        <div class="message">init</div>
+                      </div>
+                    
+                  </div>
                 
                 
                 
@@ -1211,6 +1194,31 @@
               </section>
             </div>
           
+            <div class="row fill-width">
+              <section class="activity">
+                
+                  <div class="field">
+                    
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/></svg>
+                    
+                    Deleted
+                    tag <div class="code">v1.0.6</div> in <div class="repo">du5/mugglepay</div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
         
       </section>
     </div>
@@ -1228,7 +1236,7 @@
           
             <span>These metrics include private contributions, timezone Asia/Shanghai</span>
           
-          <span>Last updated Sat, 13 Feb 2021 16:08:17 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Sat, 13 Feb 2021 16:49:21 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
