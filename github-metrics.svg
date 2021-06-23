@@ -1367,7 +1367,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.50 s
+                0.56 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1377,7 +1377,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.59 s
+                0.66 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1415,7 +1415,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.50 s
+                0.56 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1425,7 +1425,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.59 s
+                0.66 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1551,7 +1551,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Thu, 24 Jun 2021 03:29:07 (timezone Asia/Shanghai) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Thu, 24 Jun 2021 03:35:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
