@@ -1269,11 +1269,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="332.2362268673663" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="332.2362268673663" y="0" width="98.22646523107007" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="430.4626920984364" y="0" width="20.766067669113646" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="451.22875976755006" y="0" width="7.889854363956064" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.11861413150615" y="0" width="0.8813858684938852" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="332.2087224589718" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="332.2087224589718" y="0" width="98.2183334844501" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="430.42705594342186" y="0" width="20.764348535678664" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="451.1914044791005" y="0" width="7.927282618551093" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.1186870976516" y="0" width="0.8813129023483544" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1367,7 +1367,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.39 s
+                0.43 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1415,7 +1415,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.39 s
+                0.43 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1451,6 +1451,25 @@
     </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">du5/SSPanel-Uim-Docker</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#c176165</span>
+                                        <span class="message">支持时区设置</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1524,33 +1543,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">du5/SSPanel-Uim-1</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#75d5710</span>
-                                        <span class="message">Merge pull request #1274 from du5/dev
-
-feat: 优化数据</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Wed, 30 Jun 2021 15:33:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Wed, 30 Jun 2021 15:47:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
