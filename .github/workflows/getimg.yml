@@ -1,6 +1,6 @@
 name: getimg
 on:
-  schedule: [{cron: "*/15 * * * *"}]
+  schedule: [{cron: "0 */4 * * *"}]
   push: {branches: ["wf"]}
   workflow_dispatch:
 jobs:
