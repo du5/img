@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="924" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1014" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.average{color:#fb8c00}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.audits{margin-top:8px}.audit.text{min-width:42px}.audit svg{margin:0}.audit.high{fill:#18b663}.audit.average{fill:#fb8c00}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.average{color:#fb8c00}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.audits{margin-top:8px}.audit.text{min-width:42px}.audit svg{margin:0}.audit.high{fill:#18b663}.audit.average{fill:#fb8c00}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -253,13 +253,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.57 s</div>
+                        <div class="audit text">0.58 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.57 s</div>
+                        <div class="audit text">0.59 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -295,13 +295,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.57 s</div>
+                        <div class="audit text">0.58 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.57 s</div>
+                        <div class="audit text">0.59 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -337,7 +337,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cd0d191</div>
+                                        <div class="sha">#0bfeeeb</div>
                                         <div class="message">Auto Update erigon snapshot</div>
                                     </div>
                                 </div>
@@ -347,11 +347,56 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">netbootxyz/netboot.xyz</span>
+                                        Commented on
+                                        <span class="issue">#4718 stuck on erigon version 2022.07.2-alpha-c7a94eee with no error messages</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by zhonglinwei in <span class="repo">ledgerwatch/erigon</span></div>
+                                    <div class="comment">我不得不频繁的重启 erigon 来维持 rpc 的工作, 😭😭</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#4718 stuck on erigon version 2022.07.2-alpha-c7a94eee with no error messages</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by zhonglinwei in <span class="repo">ledgerwatch/erigon</span></div>
+                                    <div class="comment">
+                                        <i>@du5 Can you try: pkill -SIGUSR1 erigon</i>
+                                        same as https://github.com/ledgerwatch/erigon/issues/4718#issuecomment-1185332172
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#4718 stuck on erigon version 2022.07.2-alpha-c7a94eee with no error messages</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by zhonglinwei in <span class="repo">ledgerwatch/erigon</span></div>
+                                    <div class="comment">
+                                        @AskAlexSharov  same question, It also blocks rpc requests,  i use erigon's built-in http
+docker-compose logs -f | grep -v method
+                                        <code>rpc-bsc-erigon-1  | [INFO] [07-16|11:06:04.112] [1/16 Headers] Processed                 highest inserted=19589663 age=0 rpc-bsc-erigon-1  | [INFO] [07-16|11:06:04.227] [6/16 Execution] Completed on            block=19589663 rpc-bsc-erigon-1  | [INFO] [07-16|11:06:04.567] Timings (slower than 50ms)               Headers=2.369s Execution=106ms HashState=77ms IntermediateHashes=135ms rpc-bsc-erigon-1  | [INFO] [07-16|11:06:04.567] Tables                                   PlainState=165.7GB AccountChangeSet=63.3MB StorageChangeSet=171.8MB BlockTransaction=3.6GB TransactionLog=1.7TB FreeList=602.1MB ReclaimableSpace=2.4TB rpc-bsc-erigon-1  | [INFO] [07-16|11:06:04.699] Commit cycle                             in=131.434841ms rpc-bsc-erigon-1  | [INFO] [07-16|11:06:04.699] RPC Daemon notified of new headers       from=19589662 to=19589663 header sending=6.993µs log sending=730.183µs rpc-bsc-erigon-1  | [INFO] [07-16|11:06:04.700] [1/16 Headers] Waiting for headers...    from=19589663 rpc-bsc-erigon-1  | [WARN] [07-16|11:06:04.801] Handling incoming message                stream=RecvMessage err="decode 1 BlockHeadersPacket66: rlp: too few elements for eth.BlockHeadersPacket66" rpc-bsc-erigon-1  | [INFO] [07-16|11:06:07.096] [1/16 Headers] Processed                 highest inserted=19589664 age=0 rpc-bsc-erigon-1  | [INFO] [07-16|11:06:07.210] [6/16 Execution] Completed on            block=19589664 rpc-bsc-erigon-1  | [INFO] [07-16|11:06:07.574] Timings (slower than 50ms)               Headers=2.396s Execution=102ms HashState=88ms IntermediateHashes=134ms rpc-bsc-erigon-1  | [INFO] [07-16|11:06:07.574] Tables                                   PlainState=165.7GB AccountChangeSet=63.3MB StorageChangeSet=171.8MB BlockTransaction=3.6GB TransactionLog=1.7TB FreeList=602.1MB ReclaimableSpace=2.4TB rpc-bsc-erigon-1  | [INFO] [07-16|11:06:07.737] Commit cycle                             in=162.933118ms rpc-bsc-erigon-1  | [INFO] [07-16|11:06:07.738] RPC Daemon notified of new headers       from=19589663 to=19589664 header sending=5.721µs log sending=861.94µs rpc-bsc-erigon-1  | [INFO] [07-16|11:06:07.738] [1/16 Headers] Waiting for headers...    from=19589664 rpc-bsc-erigon-1  | [WARN] [07-16|11:06:07.835] Handling incoming message                stream=RecvMessage err="decode 1 BlockHeadersPacket66: rlp: too few elements for eth.BlockHeadersPacket66" rpc-bsc-erigon-1  | [WARN] [07-16|11:06:07.840] Handling incoming message                stream=RecvMessage err="decode 1 BlockHeadersPacket66: rlp: too few elements for eth.BlockHeadersPacket66" rpc-bsc-erigon-1  | [WARN] [07-16|11:06:08.835] Handling incoming message                stream=RecvMessage err="decode 1 BlockHeadersPacket66: rlp: too few elements for eth.BlockHeadersPacket66" rpc-bsc-erigon-1  | [WARN] [07-16|11:06:08.840] Handling incoming message                stream=RecvMessage err="decode 1 BlockHeadersPacket66: rlp: too few elements for eth.BlockHeadersPacket66" rpc-bsc-erigon-1  | [WARN] [07-16|11:06:09.836] Handling incoming message                stream=RecvMessage err="decode 1 BlockHeadersPacket66: rlp: too few elements for eth.BlockHeadersPacket66" rpc-bsc-erigon-1  | [INFO] [07-16|11:06:10.173] [1/16 Headers] Processed                 highest inserted=19589665 age=0 rpc-bsc-erigon-1  | [WARN] [07-16|11:06:10.176] Handling incoming message                stream=RecvMessage err="decode BlockBodiesPacket66: wrong size for ParentHash: 2" rpc-bsc-erigon-1  | [WARN] [07-16|11:06:11.194] Handling incoming message                stream=RecvMessage err="decode BlockBodiesPacket66: wrong size for ParentHash: 2" rpc-bsc-erigon-1  | [WARN] [07-16|11:06:12.185] Handling incoming message                stream=RecvMessage err="decode BlockBodiesPacket66: wrong size for ParentHash: 2" rpc-bsc-erigon-1  | [WARN] [07-16|11:06:13.190] Handling incoming message                stream=RecvMessage err="decode BlockBodiesPacket66: wrong size for ParentHash: 2" rpc-bsc-erigon-1  | [INFO] [07-16|11:06:14.389] [6/16 Execution] Completed on            block=19589665 rpc-bsc-erigon-1  | [INFO] [07-16|11:06:14.717] Timings (slower than 50ms)               Headers=2.435s Bodies=4.002s Execution=203ms HashState=73ms IntermediateHashes=133ms rpc-bsc-erigon-1  | [INFO] [07-16|11:06:14.717] Tables                                   PlainState=165.7GB AccountChangeSet=63.3MB StorageChangeSet=171.8MB BlockTransaction=3.6GB TransactionLog=1.7TB FreeList=602.1MB ReclaimableSpace=2.4TB rpc-bsc-erigon-1  | [INFO] [07-16|11:06:14.873] Commit cycle                             in=155.289943ms rpc-bsc-erigon-1  | [INFO] [07-16|11:06:14.873] RPC Daemon notified of new headers       from=19589664 to=19589665 header sending=6.802µs log sending=796.727µs rpc-bsc-erigon-1  | [INFO] [07-16|11:06:14.874] [1/16 Headers] Waiting for headers...    from=19589665 rpc-bsc-erigon-1  | [INFO] [07-16|11:06:14.874] [1/16 Headers] Processed                 highest inserted=19589666 age=1s rpc-bsc-erigon-1  | [INFO] [07-16|11:06:14.966] [6/16 Execution] Completed on            block=19589666 rpc-bsc-erigon-1  | [WARN] [07-16|11:06:14.972] Handling incoming message                stream=RecvMessage err="decode 1 BlockHeadersPacket66: rlp: too few elements for eth.BlockHeadersPacket66" rpc-bsc-erigon-1  | [INFO] [07-16|11:06:15.276] Timings (slower than 50ms)               Execution=84ms HashState=79ms IntermediateHashes=124ms rpc-bsc-erigon-1  | [INFO] [07-16|11:06:15.276] Tables                                   PlainState=165.7GB AccountChangeSet=63.3MB StorageChangeSet=171.8MB BlockTransaction=3.6GB TransactionLog=1.7TB FreeList=602.1MB ReclaimableSpace=2.4TB rpc-bsc-erigon-1  | [INFO] [07-16|11:06:15.409] Commit cycle                             in=133.455196ms rpc-bsc-erigon-1  | [INFO] [07-16|11:06:15.410] RPC Daemon notified of new headers       from=19589665 to=19589666 header sending=6.172µs log sending=655.913µs rpc-bsc-erigon-1  | [INFO] [07-16|11:06:15.410] [1/16 Headers] Waiting for headers...    from=19589666 rpc-bsc-erigon-1  | [WARN] [07-16|11:06:15.510] Handling incoming message                stream=RecvMessage err="decode 1 BlockHeadersPacket66: rlp: too few elements for eth.BlockHeadersPacket66" rpc-bsc-erigon-1  | [INFO] [07-16|11:06:16.080] [1/16 Headers] Processed                 highest inserted=19589667 age=0 rpc-bsc-erigon-1  | [INFO] [07-16|11:06:16.172] [6/16 Execution] Completed on            block=19589667 rpc-bsc-erigon-1  | [INFO] [07-16|11:06:16.462] Timings (slower than 50ms)               Headers=670ms Execution=79ms HashState=71ms IntermediateHashes=113ms rpc-bsc-erigon-1  | [INFO] [07-16|11:06:16.463] Tables                                   PlainState=165.7GB AccountChangeSet=63.3MB StorageChangeSet=171.8MB BlockTransaction=3.6GB TransactionLog=1.7TB FreeList=602.1MB ReclaimableSpace=2.4TB rpc-bsc-erigon-1  | [INFO] [07-16|11:06:16.590] Commit cycle                             in=127.894897ms rpc-bsc-erigon-1  | [INFO] [07-16|11:06:16.591] RPC Daemon notified of new headers       from=19589666 to=19589667 header sending=5.49µs log sending=587.184µs rpc-bsc-erigon-1  | [INFO] [07-16|11:06:16.591] [1/16 Headers] Waiting for headers...    from=19589667 rpc-bsc-erigon-1  | [WARN] [07-16|11:06:16.620] Handling incoming message                stream=RecvMessage err="decode 1 BlockHeadersPacket66: rlp: too few elements for eth.BlockHeadersPacket66" rpc-bsc-erigon-1  | [WARN] [07-16|11:06:16.688] Handling incoming message                stream=RecvMessage err="decode 1 BlockHeadersPacket66: rlp: too few elements for eth.BlockHeadersPacket66" rpc-bsc-erigon-1  | [WARN] [07-16|11:06:17.692] Handling incoming message                stream=RecvMessage err="decode 1 BlockHeadersPacket66: rlp: too few elements for eth.BlockHeadersPacket66" rpc-bsc-erigon-1  | [WARN] [07-16|11:06:17.693] Handling incoming message                stream=RecvMessage err="decode 1 BlockHeadersPacket66: rlp: too few elements for eth.BlockHeadersPacket66" rpc-bsc-erigon-1  | [INFO] [07-16|11:06:19.102] [1/16 Headers] Processed                 highest inserted=19589668 age=0 rpc-bsc-erigon-1  | [INFO] [07-16|11:06:19.195] [6/16 Execution] Completed on            block=19589668 rpc-bsc-erigon-1  | [INFO] [07-16|11:06:19.488] Timings (slower than 50ms)               Headers=2.51s Execution=85ms HashState=68ms IntermediateHashes=107ms rpc-bsc-erigon-1  | [INFO] [07-16|11:06:19.488] Tables                                   PlainState=165.7GB AccountChangeSet=63.3MB StorageChangeSet=171.8MB BlockTransaction=3.6GB TransactionLog=1.7TB FreeList=602.1MB ReclaimableSpace=2.4TB rpc-bsc-erigon-1  | [INFO] [07-16|11:06:19.634] Commit cycle                             in=146.68017ms rpc-bsc-erigon-1  | [INFO] [07-16|11:07:23.419] [p2p] GoodPeers                          eth66=92 rpc-bsc-erigon-1  | [INFO] [07-16|11:09:23.419] [p2p] GoodPeers                          eth66=92 rpc-bsc-erigon-1  | [INFO] [07-16|11:11:23.419] [p2p] GoodPeers                          eth66=92 rpc-bsc-erigon-1  | [INFO] [07-16|11:13:23.418] [p2p] GoodPeers                          eth66=91 rpc-bsc-erigon-1  | [INFO] [07-16|11:15:23.419] [p2p] GoodPeers                          eth66=91</code>
                                     </div>
                                 </div>
                             </section>
@@ -370,47 +415,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#92e1e48</div>
-                                        <div class="message">Auto Update geth snapshot</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">BNB48Club/bsc-snapshots</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f7b5e68</div>
-                                        <div class="message">Auto Update erigon snapshot</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">BNB48Club/bsc-snapshots</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5a9c0c2</div>
+                                        <div class="sha">#a2a8d84</div>
                                         <div class="message">Auto Update geth snapshot</div>
                                     </div>
                                 </div>
@@ -421,7 +426,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jul 2022, 16:07:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 16 Jul 2022, 16:03:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
